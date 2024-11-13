@@ -1,21 +1,4 @@
-Certainly! Here’s an example of a team of eight members, their roles, assigned tasks, individual progress reports, and overall contributions for the "ISS Overhead Notifier" project.
 
----
-
-# Project Team: ISS Overhead Notifier
-
-### Team Members and Roles
-
-1. **Alice Johnson** - Project Manager
-2. **Daniel Kim** - Lead Developer (API Integration)
-3. **Sophia Martinez** - Software Engineer (Time Calculations)
-4. **Ravi Patel** - Backend Developer (Notification System)
-5. **Lily Chen** - QA Engineer
-6. **Ethan Brown** - DevOps Engineer
-7. **Megan O'Reilly** - Security Specialist
-8. **Omar Hassan** - Documentation Specialist
-
----
 
 ## Individual Responsibilities and Progress Report
 
@@ -70,3 +53,20 @@ Certainly! Here’s an example of a team of eight members, their roles, assigned
 - **Deployment and Documentation**: Ethan’s DevOps configuration and Omar’s documentation made the project ready for deployment and user-friendly.
 
 Each team member’s expertise contributed to a well-rounded project, resulting in a stable, efficient, and secure ISS Overhead Notifier application.
+
+---
+
+# Project Team: ISS Overhead Notifier
+
+### Team Members and Roles
+
+1. **Alice Johnson** - Project Manager
+2. **Daniel Kim** - Lead Developer (API Integration)
+3. **Sophia Martinez** - Software Engineer (Time Calculations)
+4. **Ravi Patel** - Backend Developer (Notification System)
+5. **Lily Chen** - QA Engineer
+6. **Ethan Brown** - DevOps Engineer
+7. **Megan O'Reilly** - Security Specialist
+8. **Omar Hassan** - Documentation Specialist
+
+---
